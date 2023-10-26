@@ -1,0 +1,15 @@
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.csproj.AssemblyReference.cache
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.AssemblyInfoInputs.cache
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.AssemblyInfo.cs
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.csproj.CoreCompileInputs.cache
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\bin\Debug\net7.0-windows\Othello Visual.exe
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\bin\Debug\net7.0-windows\Othello Visual.deps.json
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\bin\Debug\net7.0-windows\Othello Visual.runtimeconfig.json
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\bin\Debug\net7.0-windows\Othello Visual.dll
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\bin\Debug\net7.0-windows\Othello Visual.pdb
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.dll
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\refint\Othello Visual.dll
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.pdb
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\Othello Visual.genruntimeconfig.cache
+C:\Users\c3073102\OneDrive - Sheffield Hallam University\Othello Visual\Othello Visual\obj\Debug\net7.0-windows\ref\Othello Visual.dll
